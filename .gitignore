@@ -1,0 +1,10 @@
+*.a
+*.o
+*.tmp
+a.out
+readme.md
+minishell
+*.dSYM
+.DS_Store
+infile
+outfile
